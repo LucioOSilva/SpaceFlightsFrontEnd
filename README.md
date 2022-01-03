@@ -31,3 +31,7 @@ This command will remove the single build dependency from project.
 
 ## Credits
 Special thanks to [Coodesh](https://coodesh.com/) for this challenge
+
+## App
+This app is deployed on heroku
+[https://spaceflights-a-coodesh-test.herokuapp.com/](https://spaceflights-a-coodesh-test.herokuapp.com/)
