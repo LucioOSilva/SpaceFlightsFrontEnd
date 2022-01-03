@@ -1,6 +1,12 @@
 # SPACE FLIGHTS JOURNAL - a Coodesh test
 ### a web page about spatial news and research.
 
+## To build this project
+you will need to use [npm](https://www.npmjs.com/)
+after clone this repository (git clone this)
+you should install the modules and dependencies with next cli
+- npm install
+
 ## Project Details
 This application uses the style guide from [Airbnb](https://github.com/airbnb/javascript)
 
